@@ -800,11 +800,11 @@ def help():
     clear()
     stdout.write("                                                                                         \n")
     stdout.write("                                  "+Fore.CYAN   +"
-                                                                "+Fore.CYAN   +"                  ╭━━━┳━━━┳━╮╱╭┳━━┳━━━╮
-                                                                       "+Fore.CYAN   +"           ┃╭━╮┃╭━╮┃┃╰╮┃┣┫┣┫╭━╮┃
-                                                                        "+Fore.MAGENTA    +"┃╰━━┫┃╱┃┃╭╮╰╯┃┃┃┃┃╱╰╯
-                                                                      "+Fore.MAGENTA    +"  ╰━━╮┃┃╱┃┃┃╰╮┃┃┃┃┃┃╱╭╮
-                                                                         "+Fore.MAGENTA    +"┃╰━╯┃╰━╯┃┃╱┃┃┣┫┣┫╰━╯┃
+                                                                "+Fore.CYAN   +"                  ╭━━━┳━━━┳━╮╱╭┳━━┳━━━╮\n")
+                                                                       "+Fore.CYAN   +"           ┃╭━╮┃╭━╮┃┃╰╮┃┣┫┣┫╭━╮┃\n")
+                                                                        "+Fore.MAGENTA    +"┃╰━━┫┃╱┃┃╭╮╰╯┃┃┃┃┃╱╰╯ \n")
+                                                                      "+Fore.MAGENTA    +"  ╰━━╮┃┃╱┃┃┃╰╮┃┃┃┃┃┃╱╭╮\n")
+                                                                         "+Fore.MAGENTA    +"┃╰━╯┃╰━╯┃┃╱┃┃┣┫┣┫╰━╯┃ \n")
                                                                          "+Fore.MAGENTA    +"╰━━━┻━━━┻╯╱╰━┻━━┻━━━╯            \n")
     stdout.write("                                 "+Fore.MAGENTA    +"         \n")
     stdout.write("                                 "+Fore.MAGENTA    +"            \n")
@@ -834,11 +834,11 @@ def layer7():
     clear()
     stdout.write("                                                                                         \n")
     stdout.write("                                 "+Fore.CYAN   +"
-                                                                "+Fore.CYAN   +"                  ╭━━━┳━━━┳━╮╱╭┳━━┳━━━╮
-                                                                       "+Fore.CYAN   +"           ┃╭━╮┃╭━╮┃┃╰╮┃┣┫┣┫╭━╮┃
-                                                                         "+Fore.MAGENTA    +"┃╰━━┫┃╱┃┃╭╮╰╯┃┃┃┃┃╱╰╯
-                                                                       "+Fore.MAGENTA    +"  ╰━━╮┃┃╱┃┃┃╰╮┃┃┃┃┃┃╱╭╮
-                                                                         "+Fore.MAGENTA    +"┃╰━╯┃╰━╯┃┃╱┃┃┣┫┣┫╰━╯┃
+                                                                "+Fore.CYAN   +"                  ╭━━━┳━━━┳━╮╱╭┳━━┳━━━╮\n")
+                                                                       "+Fore.CYAN   +"           ┃╭━╮┃╭━╮┃┃╰╮┃┣┫┣┫╭━╮┃\n")
+                                                                        "+Fore.MAGENTA    +"┃╰━━┫┃╱┃┃╭╮╰╯┃┃┃┃┃╱╰╯ \n")
+                                                                      "+Fore.MAGENTA    +"  ╰━━╮┃┃╱┃┃┃╰╮┃┃┃┃┃┃╱╭╮\n")
+                                                                         "+Fore.MAGENTA    +"┃╰━╯┃╰━╯┃┃╱┃┃┣┫┣┫╰━╯┃ \n")
                                                                          "+Fore.MAGENTA    +"╰━━━┻━━━┻╯╱╰━┻━━┻━━━╯            \n")
     stdout.write("                                 "+Fore.MAGENTA    +"         \n")
     stdout.write("                                 "+Fore.MAGENTA    +"            \n")
@@ -871,12 +871,12 @@ def layer4():
     clear()
     stdout.write("                                                                                         \n")
     stdout.write("                       "+Fore.CYAN   +"
-                                                                "+Fore.CYAN   +"                  ╭━━━┳━━━┳━╮╱╭┳━━┳━━━╮
-                                                                       "+Fore.CYAN   +"           ┃╭━╮┃╭━╮┃┃╰╮┃┣┫┣┫╭━╮┃
-                                                                        "+Fore.MAGENTA    +"┃╰━━┫┃╱┃┃╭╮╰╯┃┃┃┃┃╱╰╯
-                                                                      "+Fore.MAGENTA    +"  ╰━━╮┃┃╱┃┃┃╰╮┃┃┃┃┃┃╱╭╮
-                                                                        "+Fore.MAGENTA    +"┃╰━╯┃╰━╯┃┃╱┃┃┣┫┣┫╰━╯┃
-                                                                        "+Fore.MAGENTA    +"╰━━━┻━━━┻╯╱╰━┻━━┻━━━╯            \n")
+                                                                "+Fore.CYAN   +"                  ╭━━━┳━━━┳━╮╱╭┳━━┳━━━╮\n")
+                                                                       "+Fore.CYAN   +"           ┃╭━╮┃╭━╮┃┃╰╮┃┣┫┣┫╭━╮┃\n")
+                                                                        "+Fore.MAGENTA    +"┃╰━━┫┃╱┃┃╭╮╰╯┃┃┃┃┃╱╰╯ \n")
+                                                                      "+Fore.MAGENTA    +"  ╰━━╮┃┃╱┃┃┃╰╮┃┃┃┃┃┃╱╭╮\n")
+                                                                         "+Fore.MAGENTA    +"┃╰━╯┃╰━╯┃┃╱┃┃┣┫┣┫╰━╯┃ \n")
+                                                                         "+Fore.MAGENTA    +"╰━━━┻━━━┻╯╱╰━┻━━┻━━━╯            \n")
     stdout.write("                                 "+Fore.MAGENTA    +"         \n")
     stdout.write("                                 "+Fore.MAGENTA    +"            \n")
     stdout.write("             "+Fore.MAGENTA            +"        ══╦═════════════════════════════════╦══\n")
@@ -890,11 +890,11 @@ def tools():
     clear()
     stdout.write("                                                                                         \n")
     stdout.write("                                    "+Fore.CYAN   +"
-                                                                "+Fore.CYAN   +"                  ╭━━━┳━━━┳━╮╱╭┳━━┳━━━╮
-                                                                       "+Fore.CYAN   +"           ┃╭━╮┃╭━╮┃┃╰╮┃┣┫┣┫╭━╮┃
-                                                                         "+Fore.MAGENTA    +"┃╰━━┫┃╱┃┃╭╮╰╯┃┃┃┃┃╱╰╯
-                                                                       "+Fore.MAGENTA    +"  ╰━━╮┃┃╱┃┃┃╰╮┃┃┃┃┃┃╱╭╮
-                                                                         "+Fore.MAGENTA    +"┃╰━╯┃╰━╯┃┃╱┃┃┣┫┣┫╰━╯┃
+                                                                "+Fore.CYAN   +"                  ╭━━━┳━━━┳━╮╱╭┳━━┳━━━╮\n")
+                                                                       "+Fore.CYAN   +"           ┃╭━╮┃╭━╮┃┃╰╮┃┣┫┣┫╭━╮┃\n")
+                                                                        "+Fore.MAGENTA    +"┃╰━━┫┃╱┃┃╭╮╰╯┃┃┃┃┃╱╰╯ \n")
+                                                                      "+Fore.MAGENTA    +"  ╰━━╮┃┃╱┃┃┃╰╮┃┃┃┃┃┃╱╭╮\n")
+                                                                         "+Fore.MAGENTA    +"┃╰━╯┃╰━╯┃┃╱┃┃┣┫┣┫╰━╯┃ \n")
                                                                          "+Fore.MAGENTA    +"╰━━━┻━━━┻╯╱╰━┻━━┻━━━╯            \n")
     stdout.write("                                 "+Fore.MAGENTA    +"         \n")
     stdout.write("                                 "+Fore.MAGENTA    +"            \n")
@@ -909,11 +909,11 @@ def tools():
 def title():
     stdout.write("                                                                                          \n")
     stdout.write("                               "+Fore.CYAN   +"
-                                                                "+Fore.CYAN   +"                  ╭━━━┳━━━┳━╮╱╭┳━━┳━━━╮
-                                                                       "+Fore.CYAN   +"           ┃╭━╮┃╭━╮┃┃╰╮┃┣┫┣┫╭━╮┃
-                                                                        "+Fore.MAGENTA    +"┃╰━━┫┃╱┃┃╭╮╰╯┃┃┃┃┃╱╰╯
-                                                                      "+Fore.MAGENTA    +"  ╰━━╮┃┃╱┃┃┃╰╮┃┃┃┃┃┃╱╭╮
-                                                                         "+Fore.MAGENTA    +"┃╰━╯┃╰━╯┃┃╱┃┃┣┫┣┫╰━╯┃
+                                                                "+Fore.CYAN   +"                  ╭━━━┳━━━┳━╮╱╭┳━━┳━━━╮\n")
+                                                                       "+Fore.CYAN   +"           ┃╭━╮┃╭━╮┃┃╰╮┃┣┫┣┫╭━╮┃\n")
+                                                                        "+Fore.MAGENTA    +"┃╰━━┫┃╱┃┃╭╮╰╯┃┃┃┃┃╱╰╯ \n")
+                                                                      "+Fore.MAGENTA    +"  ╰━━╮┃┃╱┃┃┃╰╮┃┃┃┃┃┃╱╭╮\n")
+                                                                         "+Fore.MAGENTA    +"┃╰━╯┃╰━╯┃┃╱┃┃┣┫┣┫╰━╯┃ \n")
                                                                          "+Fore.MAGENTA    +"╰━━━┻━━━┻╯╱╰━┻━━┻━━━╯            \n")
     stdout.write("                                 "+Fore.MAGENTA    +"         \n")
     stdout.write("                                 "+Fore.MAGENTA    +"            \n")
