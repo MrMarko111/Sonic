@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-# Developer - @opsec
-# Contact me here - Telegram - https://t.me/opsector
+# Developer - @MrMarko
 from os import system, name
 import os, threading, requests, sys, cloudscraper, datetime, time, socket, socks, ssl, random, httpx
 from urllib.parse import urlparse
@@ -808,17 +807,17 @@ def help():
     stdout.write("             "+Fore.MAGENTA            +"║ \x1b[38;2;255;20;147m• "+Fore.CYAN+"layer4   "+Fore.MAGENTA+"|"+Fore.CYAN+" Show Layer4 Methods                    "+Fore.MAGENTA+"║\n")
     stdout.write("             "+Fore.MAGENTA            +"║ \x1b[38;2;255;20;147m• "+Fore.CYAN+"tools    "+Fore.MAGENTA+"|"+Fore.CYAN+" Show tools                             "+Fore.MAGENTA+"║\n")
     stdout.write("             "+Fore.MAGENTA            +"║ \x1b[38;2;255;20;147m• "+Fore.CYAN+"credits  "+Fore.MAGENTA+"|"+Fore.CYAN+" Show credits                           "+Fore.MAGENTA+"║\n")
-    stdout.write("             "+Fore.MAGENTA            +"║ \x1b[38;2;255;20;147m• "+Fore.CYAN+"exit     "+Fore.MAGENTA+"|"+Fore.CYAN+" Exit KARMA DDoS Panel                  "+Fore.MAGENTA+"║\n")
+    stdout.write("             "+Fore.MAGENTA            +"║ \x1b[38;2;255;20;147m• "+Fore.CYAN+"exit     "+Fore.MAGENTA+"|"+Fore.CYAN+"  KARMA DDoS X Sonic                  "+Fore.MAGENTA+"║\n")
     stdout.write("             "+Fore.MAGENTA            +"╠═════════════════════════════════════════════════════╣\n")
-    stdout.write("             "+Fore.MAGENTA            +"║ \x1b[38;2;255;20;147m• "+Fore.CYAN+"Socials  "+Fore.MAGENTA+"|"+Fore.CYAN+" https://glock.rip/opsec                "+Fore.MAGENTA+"║\n")
-    stdout.write("             "+Fore.MAGENTA            +"║ \x1b[38;2;255;20;147m• "+Fore.CYAN+"github   "+Fore.MAGENTA+"|"+Fore.CYAN+" https://github.com/opsecs/KARMA-DDOS   "+Fore.MAGENTA+"║\n")
-    stdout.write("             "+Fore.MAGENTA            +"║ \x1b[38;2;255;20;147m• "+Fore.CYAN+"Read     "+Fore.MAGENTA+"|"+Fore.CYAN+" Star this project or u gay ;)          "+Fore.MAGENTA+"║\n")
+    stdout.write("             "+Fore.MAGENTA            +"║ \x1b[38;2;255;20;147m• "+Fore.CYAN+"Socials  "+Fore.MAGENTA+"|"+Fore.CYAN+" soon                "+Fore.MAGENTA+"║\n")
+    stdout.write("             "+Fore.MAGENTA            +"║ \x1b[38;2;255;20;147m• "+Fore.CYAN+"github   "+Fore.MAGENTA+"|"+Fore.CYAN+" https://github.com/MrMarko111/Sonic   "+Fore.MAGENTA+"║\n")
+    stdout.write("             "+Fore.MAGENTA            +"║ \x1b[38;2;255;20;147m• "+Fore.CYAN+"Read     "+Fore.MAGENTA+"|"+Fore.CYAN+" We Dont Die We Multiply          "+Fore.MAGENTA+"║\n")
     stdout.write("             "+Fore.MAGENTA            +"╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 
 def cMAGENTAit():
     stdout.write("\x1b[38;2;0;236;250m════════════════════════╗\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.CYAN   +"Developer "+Fore.MAGENTA+": \x1b[38;2;0;255;189m@opsec\n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.CYAN   +"Developer "+Fore.MAGENTA+": \x1b[38;2;0;255;189m@MrMarko\n")
     stdout.write("\x1b[38;2;255;20;147m• "+Fore.CYAN   +" "+Fore.MAGENTA+": \x1b[38;2;0;255;189m\n")
     stdout.write("\x1b[38;2;255;20;147m• "+Fore.CYAN   +" "+Fore.MAGENTA+": \x1b[38;2;0;255;189m\n")
     stdout.write("\x1b[38;2;0;236;250m════════════════════════╝\n")
@@ -889,14 +888,14 @@ def title():
     stdout.write("                                 "+Fore.MAGENTA   +"╩ ╩╩ ╩╩╚═╩ ╩╩ ╩                \n")
     stdout.write("             "+Fore.MAGENTA            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.MAGENTA+"╔═════════╩═════════════════════════════════╩═════════╗\n")
-    stdout.write("             "+Fore.MAGENTA+"║ "+Fore.CYAN   +"         Welcome to Karma-DDoS Panel         "+Fore.MAGENTA  +"       ║\n")
-    stdout.write("             "+Fore.MAGENTA+"║ "+Fore.CYAN   +"          Type [ ? ] to see the commands     "+Fore.MAGENTA +"       ║\n")
-    stdout.write("             "+Fore.MAGENTA+"║ "+Fore.CYAN   +"         Contact - Telegram @opsector   "+Fore.MAGENTA +"            ║\n")
+    stdout.write("             "+Fore.MAGENTA+"║ "+Fore.CYAN   +"         Welcome to Karma-DDoS X Sonic Panel         "+Fore.MAGENTA  +"       ║\n")
+    stdout.write("             "+Fore.MAGENTA+"║ "+Fore.CYAN   +"          WE DON'T DIE WE MULTIPLY     "+Fore.MAGENTA +"       ║\n")
+    stdout.write("             "+Fore.MAGENTA+"║ "+Fore.CYAN   +"         C0D3R -  @MrMarko   "+Fore.MAGENTA +"            ║\n")
     stdout.write("             "+Fore.MAGENTA+"╚═════════════════════════════════════════════════════╝\n") 
     stdout.write("\n")
 
 def command():
-    stdout.write(Fore.MAGENTA+"╔═══"+Fore.MAGENTA+"[""root"+Fore.LIGHTMAGENTA_EX+"@"+Fore.MAGENTA+"Karma"+Fore.CYAN+"]"+Fore.MAGENTA+"\n╚══\x1b[38;2;0;255;189m> "+Fore.WHITE)
+    stdout.write(Fore.MAGENTA+"╔═══"+Fore.MAGENTA+"[""root"+Fore.LIGHTMAGENTA_EX+"@"+Fore.MAGENTA+"Sonic"+Fore.CYAN+"]"+Fore.MAGENTA+"\n╚══\x1b[38;2;0;255;189m> "+Fore.WHITE)
     command = input()
     if command == "cls" or command == "clear":
         clear()
